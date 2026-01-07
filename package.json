@@ -1,0 +1,15 @@
+{
+  "name": "@magenable/medusa-plugin-top-bar-notification-storefront",
+  "version": "1.0.10",
+  "description": "This package adds changes to the Medusa Next.js Starter Storefront layout during installation for the MedusaJS plugin @magenable/medusa-plugin-top-bar-notification",
+  "author": "Magenable",
+  "license": "MIT",
+  "type": "module",
+  "bin": {
+    "modify-project-files": "./scripts/modify-project-files.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/magenable/medusa-plugin-top-bar-notification-storefront"
+  }
+}
